@@ -2,6 +2,8 @@
 
 ToDo
 
+You run the code [here](https://notebooks.azure.com/Pospa/projects/ml-openhack).
+
 # Environment setup
 
 ## Environment
